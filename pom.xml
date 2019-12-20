@@ -3,3 +3,5 @@
 		<sonar.projectKey>${gitProjectName}-${gitbranchName}</sonar.projectKey> 
 		<sonar.skip>True</sonar.skip>
 		
+		
+		<propertyX>True</propertyX>
