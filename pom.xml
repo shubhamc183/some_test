@@ -1,0 +1,4 @@
+
+		<sonar.projectName>${gitProjectName}-${gitbranchName}</sonar.projectName>
+		<sonar.projectKey>${gitProjectName}-${gitbranchName}</sonar.projectKey> 
+		<sonar.skip>True</sonar.skip>
