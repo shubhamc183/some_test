@@ -5,3 +5,5 @@
 		
 		
 		<propertyX>True</propertyX>
+		<sonar.skip>True</sonar.skip>
+		
